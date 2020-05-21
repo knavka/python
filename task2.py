@@ -1,0 +1,21 @@
+#string
+print("---\nString")
+str1="first"
+str2="two"
+print("first"+" "+"two")
+#integer
+print("---\ninteger")
+int1=10
+int2=5
+print(str(int1)+"+"+str(int2)+"="+str(int1+int2))
+print(str(int1)+"-"+str(int2)+"="+str(int1-int2))
+print(str(int1)+"*"+str(int2)+"="+str(int1*int2))
+print(str(int1)+"/"+str(int2)+"="+str(int1/int2))
+#float
+print("---\nfloat")
+float1=6.4
+float2=0.2
+print(str(float1)+"+"+str(float2)+"="+str(float1+float2))
+print(str(float1)+"-"+str(float2)+"="+str(float1-float2))
+print(str(float1)+"*"+str(float2)+"="+str(float1*float2))
+print(str(float1)+"/"+str(float2)+"="+str(float1/float2))
